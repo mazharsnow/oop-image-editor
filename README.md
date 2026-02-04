@@ -50,7 +50,7 @@ This application is developed as part of HIT137 Assignment 3, showcasing:
 1. **Clone the repository**
 ```bash
 git clone https://github.com/mazharsnow/oop-image-editor.git
-cd OOP_PROJECT
+cd oop-image-editor
 ```
 
 2. **Create a virtual environment**
