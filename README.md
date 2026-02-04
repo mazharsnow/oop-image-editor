@@ -169,14 +169,6 @@ main.py
 - **PIL/Pillow** - Image handling and display
 - **NumPy** - Numerical operations
 
-## 📄 License
-
-This project is created for educational purposes as part of HIT137 coursework.
-
-## 🐛 Known Issues
-
-- None reported
-
 ## 🔮 Future Enhancements
 
 - Additional filters (sepia, vintage, etc.)
