@@ -161,14 +161,6 @@ main.py
        └── ImageProcessor (processes images)
 ```
 
-## 🛠️ Technologies Used
-
-- **Python 3.x** - Core programming language
-- **Tkinter** - GUI framework
-- **OpenCV (cv2)** - Image processing library
-- **PIL/Pillow** - Image handling and display
-- **NumPy** - Numerical operations
-
 ## 🔮 Future Enhancements
 
 - Additional filters (sepia, vintage, etc.)
