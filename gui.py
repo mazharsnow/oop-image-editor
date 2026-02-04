@@ -11,7 +11,7 @@ from image_processor import ImageProcessor
 class ImageEditorGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("openCV Image Editor")
+        self.root.title("OpenCV Image Editor")
         self.root.geometry("1200x750")
 
         self.manager = ImageManager()
